@@ -1,0 +1,42 @@
+.common{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: x-large;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.header{
+    background-color: grey;
+    color: white;
+    height: 100px;
+    line-height: 100px;
+    margin-bottom: -29px;
+    margin-top: -30px;
+}
+
+.mainbody{
+    background-color:beige;
+    font-size: x-large;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.footer{
+    position: fixed;
+    background-color: black;
+    color: white;
+    bottom: 0px;
+    right: 3px;
+    left: 3px;
+    height: 25px;
+    font-size: 10px;
+    line-height: 25px;
+}
+
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
