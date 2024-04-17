@@ -1,8 +1,8 @@
 .common{
-    margin-bottom: 0px;
-    margin-top: 0px;
-    font-size: x-large;
-    text-align: center;
+    margin-bottom: 0px!important;
+    margin-top: 0px!important;
+    font-size: x-large!important;
+    text-align: center!important;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
